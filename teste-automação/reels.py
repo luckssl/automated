@@ -1,7 +1,6 @@
 import pyautogui
 import time
 
-time.sleep(5)
 
 reels = (148,389)
 n = 10
